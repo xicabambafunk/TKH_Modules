@@ -1,0 +1,71 @@
+
+Jexica Ayran
+July 20, 2020
+TKH Module 01
+  
+
+
+
+Reflection: What is code? By Paul Ford
+
+Q. In your own words, what is a computer really doing whenever you type a letter on a keyboard?
+
+
+A. The computer is this brain-like machine that’s constantly waiting to hear or receive signals whenever each button on the keyboard is pressed. Each button or combination of buttons has a unique set of commands, instructions, or meaning that the computer is instructed to follow. In the example of each key letter; the computer receives a message that a specific button was clicked, then goes into its memory of fonts (for whichever is selected) and puts the picture of the whichever selected letter on the screen. It’s fascinating that each letter or anything on the screen is an image created from these dots, lines, and circles.
+
+
+Q. In your own words, how do computers use input and output to create experiences? (250 words max)
+
+A. Computers read code as input, reading piece by piece or “bit by bit,” until the closing command, which then creates / executes the list of instructions or commands called the “output.” The output creates an experience or image from the set of instructions.
+
+
+Q. Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+
+A. Software products are essentially “infinitely reproducible nothings” because of easy it is to write and produce the software products, which are essentially anything on the screens. It’s like making something out of nothing and the ideas are limitless.
+
+
+Q. Explain in your own words how code becomes software. (150 words max)
+
+
+A. The list of instructions is depicted in the article to be similar as a tree, an interconnected branches and leaves system. The output is then the finalized form or software program, which makes it look like “magic,” as the article describes.
+
+Q. Explain “algorithms” in your own words. (150 words max)
+
+A. My interpretation of an “algorithm” is lines of code or a function that solves a problem through math, data, or a graph map as the code is executed or set to run. 
+
+Q. Explain the DRY principle. (100 words max)
+
+A.  The DRY principle is the minimalist approach every programmer aspires to do: Don’t Repeat Yourself. The DRY essence is in writing a name, a command, or a set of instructions once and letting the computer make the repetitions (all the work). 
+
+
+Q. In your own words, what is object-oriented programming? (100 words max)
+
+A. Object-oriented programming is a very abstract concept on a complex system behind every software program in which data turn into objects or commands that are classified in order to easily interact and be organized with one another.   
+
+
+Q. In your own words explain data and how it relates to code. (100 Words max)
+
+A. Data is pretty much everything in a computer, including everything that is created by or for the users. The data is tracked, analyzed, and used by programmers for all purposes, as well as to enhance or attract more users. As an unlimited amount of data is created, the demand for programmers continues to grow.
+
+
+Q. What is a framework? (150 words max)
+
+A framework is like a platform or software where many web applications are sketched out or produced in. Each coding language has one or several of these frameworks, which houses libraries with standard services or the option to add to it.
+
+
+Q. What is debugging? (150 words max)
+
+A. Programming is debugging, which involves resolving and searching for any errors or any mistyped lines in the written code. 
+
+
+Q. Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+
+A. I love solving problems, technology, and would love integrate a more creative or multi-disciplinary approach towards programming. As a web developer, I would bring a more design (UX-like) or visually appealing, interactive approach on each website. I would also like to expand on these skills into more creative coding, parametric design, or new media art. I also would love to empower or be able to represent more Mexican and Filipinos in new media art or in tech. Most colleagues from home or anyone in my family on both sides are often discouraged from pursuing their creative dreams; I’d love to demonstrate and influence that it’s most definitely possible to create your own unique career path. 
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+
+Jexica Ayran
+July 20, 2020
+TKH Module 02
+
+
+
+			Question 02: Git
+
+a) What is Git and how is it different than GitHub?
+
+	- Git is a version control system (VCS), which essentially is like a tracking system for code that can be done remotely without the internet. However, if you want to update the repository remotely, you'll need to commit and be connected to the internet. It makes it easy to see the steps, lines of code, or changes that happened. There are many sites that host Git for various different amounts; and one popular, free hosting site is Github. Github is, as described in the article,"the Google Drive of code," making it easier to go back and make changes or maybe "grow" some more branches with anyone and everyone. 
+
+b) Why use the terminal?
+
+	- As a programmer or developer, you're expected to know how to use terminal and it makes it really quick to make any kind of changes in computer. Essentially, you should be able to do anything with a few set of commands in terminal; from making new files, moving folders, and even edit text files. 
+
+c) Explain 3 benefits version control in your own words.
+	- Version control helps keep track of all the changes to code (like a history log), making it easier to backtrack on any errors or past code typos, and also lets multiple people work on the same files or branch out to create new iterations.
+
+	
+

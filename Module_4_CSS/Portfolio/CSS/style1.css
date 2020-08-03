@@ -1,0 +1,36 @@
+.jexica {
+	font-size: 65px;
+	line-height: 0px;
+	padding-top: 55px;
+}
+h1 {
+	font-family: Helvetica;
+	letter-spacing: 3px;
+}
+
+p {
+	font-family: Helvetica;
+}
+
+a {
+	font-family: Helvetica;
+	text-decoration: none;
+}
+ul {
+	font-family: Helvetica;
+	line-height: 1.5;
+	list-style-type: none;
+}
+
+html  {
+	text-align: left;
+	padding-left: 50px;
+	padding-right: 400px;
+	letter-spacing: 1px;
+	line-height: 22px;
+}
+
+.contact, label {
+	line-height: 1.5;
+	font-family: Helvetica;
+}

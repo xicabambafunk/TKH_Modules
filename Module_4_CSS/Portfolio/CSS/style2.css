@@ -1,0 +1,53 @@
+.jexica {
+	font-size: 65px;
+	line-height: 0px;
+	padding-top: 55px;
+}
+
+
+
+h1, h2 {
+	font-family: Helvetica;
+	letter-spacing: 3px;
+}
+
+h3 {
+	font-family: Helvetica;
+	font-size: 20px;
+	line-height: 19px;
+	letter-spacing: 1.5px;
+}
+
+p {
+	font-family: Helvetica;
+	line-height: 22px;
+}
+
+a {
+	font-family: Helvetica;
+	text-decoration: none;
+}
+ul {
+	font-family: Helvetica;
+	line-height: 1.5;
+	
+}
+
+html  {
+	text-align: left;
+	padding-left: 50px;
+	padding-right: 500px;
+	
+}
+
+#course {
+	font-size: 11px;
+}
+
+.business, .date, .location {
+	line-height: 5px;
+}
+
+.experiences {
+	margin-bottom: 30px;
+}

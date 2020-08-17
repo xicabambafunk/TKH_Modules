@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="css\styles.css">
+  </head>
+  <body>
+    <div class="header">
+      <h2>to-do list:</h2>
+      
+      <input type="text" id="myInput" placeholder="Title...">
+      <span onclick="newElement()" class="addBtn">Add</span>
+    </div>
+    <ul id="myUL">
+      <li class="checked">TKH homework on time.</li>
+      <li>Practice meditation.</li>
+      <li>Finish reading that book.</li>
+      <li class="checked">Binge the tutorials.</li>
+      <li>Create JavaScript projects</li>
+      <li>Do finances right.</li>
+      <li>Learn a new skill.</li>
+    </ul>
+    <button type="button" id="clear-list" onclick="removeAll()">clear</button>
+    <script type="text/javascript" src="js\to-do.js"></script>
+  </body>
+</html>

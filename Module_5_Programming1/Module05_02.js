@@ -4,8 +4,11 @@ const grade = parseInt(prompt("Your score?"));
 if (grade > 95) {
   console.log("Your grade: A+");
 } 
-else if (grade >= 89 && grade <= 90) {
+else if (grade >= 91 && grade <= 95) {
   console.log("Your grade: A");
+} 
+else if (grade >= 89 && grade <= 90) {
+  console.log("Your grade: A-");
 } 
 else if (grade >= 85 && grade <= 88) {
   console.log("Your grade: B+");
@@ -24,3 +27,5 @@ else if (grade >= 64 && grade <= 67) {
 }
 else if (grade < 63) 
   console.log("Your grade: F");
+
+

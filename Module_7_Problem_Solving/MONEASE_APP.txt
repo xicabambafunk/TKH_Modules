@@ -1,0 +1,91 @@
+MONEASE APP FULL DESCRIPTION 
+
+1. Problem Definition: What is the problem you are looking to solve?
+    * Minorities that are “behind” obtain true wealth, financial freedom which will alleviating financial stress/dependency. Life then will be about new ways to innovate, entrepreneurship, and create with financial means.
+
+    * Financial freedom and the “money grows on trees” mentality for under-represented communities that have been kept out of the loop (and much worse) for many generations. Share the “secret” of Abundance.
+
+                * Many minorities come with educational backgrounds, but have the language barrier that stumps a lot of communities, despite having more knowledge or completed career backgrounds from other countries.
+
+                    * having this app can give them a starting point to be able to afford laptop/computer for whoever doesn’t have one and be a part of the technocratic world; connecting from around the world. 
+
+        * References from “Rich Dad Poor Dad” - Robert Kiyosaki and Sharon Lechter / Naval Ravikant podcast / Abundant lessons from “The Secret”
+
+            * How to spread awareness about assets; the different forms it can take.
+                * Giving people a more “creator” mindset.
+
+        * Lessons on basic economics, Stocks/day-trading, Banks/types of accounts, intro to entrepreneurship/business.
+                * Future Spin-off App (learning about trademarking, branding, having legal/financial power of: names, phrases, dances, stories, recipes, herbs, produce, arts, and pushing more under-represented cultures/communities to be a part of the money games/legal protection.)
+
+2. Define the Problem: What is the underlying source? (Once we understand the effect the current situation has on the lives of those we want to serve, we need to do the research, potentially interviewing people in the affected industry/group about the problem and their thoughts on where it is coming from. It may also be necessary to conduct a power mapping exercise. 
+
+        * The underlying source of the problem is systematic, generational oppression. I’m not interested in replaying the narrative when all we can do at this moment is to move forward and try to empower.
+
+        * Many minorities or anyone in poverty are still mentally trapped (myself partially included), but there are also many others that found success and overcame these obstacles. What’s the difference? Many times: hard work, innate positivity, connections, knowledge, but isn’t it usually action at the right time?
+
+    * Are we looking to tackle the root cause?
+
+        * No, we’re simply going to share forward movement and growth. 
+
+    * Are we looking to directly address a single or multiple pain point(s) of the problem?
+
+        * We’re offering alternatives to assist. Jobs aren’t everything, but work and “careers” seems to dictate people’s lives and we’re going to relieve some of that burden. We saw the stress everyone experienced during the pandemic, we’d like people to see finances as fun and full of endless possibilities.
+
+    * Are we looking to solve the problem directly or are we trying to provide information/aid in an action that our users can take to solve the problem themselves?
+
+        * We’ll be offering advise and showing the different options one can invest in, meanwhile showing the pro’s and con’s of each choice.
+
+
+3. Customer Segments: Who experiences this problem and is likely to use your solution (Who is this for)?
+
+    * Communities in poverty, not financially stress-free. Shifting communities into comforting, less work-think smart mentality. 
+
+        * Letting everyday folks know that investing can be started early and by anyone (I’m still learning too).
+
+    * Many people still solely rely on 9-5 lifestyles and are left in a predicament a job doesn’t work out. Having multiple income streams. Shifting mindsets to be similar to that of an actor: having a range of assets/skills/character/knowledge that’ll make themselves an asset, brand and/or finding detached ways of being financially self-sustaining.  
+
+4. Solution: What is our MVP solution to this problem?
+    * What is an MVP? MVP (in this context) stands for Minimal Viable Product. Basically, it is a stripped down version of a solution that does only what is necessary to solve the problems without the bells and whistles.
+
+        * Basic - very Simplified app version of Finances / Economic world overview. Stocks, banks overview. for anyone, everyone.
+
+            * maybe making it feel like an RPG game. showing the multiple options a person can do, should do with their first few thousands of savings.
+
+            * We could have this app also be in different languages? 
+                * Many minorities come with educational backgrounds, but have the language barrier that stumps a lot of communities, despite having more knowledge or completed career backgrounds from other countries.
+                * Spanish, Chinese (Mandarin/Cantonese), Vietnamese, Tagalog, Indian (major dialects), Arabic, few major indigenous dialects.
+
+5. Key Metrics: How will we know if our solution is effective?
+
+    * seeing more people interested in “playing” the money games.
+        * shifting minorities, under-represented communities and anyone an awareness of how simple and attainable finances, investments, and “abundance” really is.
+
+6. Unique Value Proposition: What makes our solution different from other solutions solving the same problem?
+
+    * We’re making financial freedom/knowledge accessible, fun, easy to understand, multi-lingual and truly looking to help marginalized communities with No Affiliations or ulterior motives.
+
+7. Channels: How will we get our solution into the hands of those that can use it? Will it be downloaded/is it free? Will you need to train people on how to use it? Etc.
+    * It’ll be free: launched in the app store.
+    * There will a help section, visuals on how to use the app.
+    * Maybe a few social media Youtube posts / IG posts / make a blog site to promote app on how it works - motion infographics.
+
+8. Unfair Advantage: Is there a factor that makes your solution more effective than other solutions by the nature of a structural advantage either of the product or of your team (for example, do you have access to data that others don’t)?
+
+    * This app will be the fun, RPG Sparknotes of Finance. Many times there’s excessive details that aren’t really needed (in the beginning), they could be put off to the side until the time is right or be placed as a link. From personal experience, a large book or large paragraphs are intimidating or off-putting. Less is more? 
+
+9. Cost structure: What is the base cost it takes to create and maintain your solution? What is the cost of serving one person?
+
+    * Planning, Design, Features, Infrastructure, App administration, Testing, Deployment.
+    * Our time, number of employees. Online says it could range from ~38k - 170k.
+
+10. The 100th person? The 1000th person?
+
+    * That would just be amazing. Just happy to see more prosperous communities. (If I had this tool or perception in high school/college, I would’ve lived more peacefully and attentive to everyday relationships/passions rather than daily struggling or penny-pinching paychecks from part-time jobs.) 
+
+11. Revenue Structure: How will your solution make revenue so it is able to fund itself and consistently provide the service?
+
+    * Donation-based. Get investors? Stocks? I know I said No Affiliations, BUT some of the books/podcasts previously mentioned - maybe there could be some kind of profit from name-dropping - referring. or pitch it to them? Or look into their investors? They’re more likely to be interested.
+
+12. Final Task: Define a community problem you want to solve with technology and the people who it affects that you want to serve.
+
+    * Communities that are under-represented, stuck in poverty, or not knowledgable about finances, legalities. I just want to see more communities that grow up feeling powerless (like myself) find abundance, at least some financial clarity. Bring more POC, minorities financial empowerment.

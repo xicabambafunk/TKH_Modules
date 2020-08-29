@@ -1,0 +1,73 @@
+CHAKRA 6SENSE APP (SEE, HEAR, SMELL, TOUCH, TASTE, SPACE)
+
+1. Problem Definition: What is the problem you are looking to solve?
+
+    *  Spiritually, physically, and mentally balance individuals through Chakra alignment using the 6 senses: see, hear, smell, touch, taste, space. (I’m still working on all this and far from perfect alignment).
+
+    *  There’s so much tension, conflict, and chaos in the world. During this pandemic, BLM, political turmoil all over the world, everyone’s looking within to find peace (or are stuck on their phones which is why they need this app.) 
+
+    * Chakra’s and energies/vibrations are universal; a way to understand one’s well-being. A way of bringing “looking at the man in the mirror” or “being the change you want to see in the world.” Everyone, from all walks of life, have struggles, and your current situation at hand is the only change we can control or improve. Self-healing and improving oneself empowers others, if we think about our interconnectedness.
+
+2. Define the Problem: What is the underlying source? (Once we understand the effect the current situation has on the lives of those we want to serve, we need to do the research, potentially interviewing people in the affected industry/group about the problem and their thoughts on where it is coming from. It may also be necessary to conduct a power mapping exercise. 
+
+        * Every person’s life has its ups and downs, the ying and yang. This app will help every person find inner balance through some chakra healing.
+
+    * Are we looking to tackle the root cause?
+
+        * No, we’re simply going to share forward movement and growth. 
+
+    * Are we looking to directly address a single or multiple pain point(s) of the problem?
+
+        * We’ll be addressing multiple pain points with equal or more healing points.
+
+    * Are we looking to solve the problem directly or are we trying to provide information/aid in an action that our users can take to solve the problem themselves?
+
+        * We’re looking to solve the problem directly with multiple information, alternatives of the 6 senses.
+
+3. Customer Segments: Who experiences this problem and is likely to use your solution (Who is this for)?
+
+    * Everyone needs time balance; whether through binaural beat meditation, learning nutrition (fruits, herbs that improve specific chakra points), listing herbs/scented oils or candles that correlate/relieve chakra points, 
+
+1. Solution: What is our MVP solution to this problem?
+
+    * What is an MVP? MVP (in this context) stands for Minimal Viable Product. Basically, it is a stripped down version of a solution that does only what is necessary to solve the problems without the bells and whistles.
+
+    * Creating a basic 7 chakra map (root, sacral, solar plexus, heart, throat, third eye, and crown) and the each chakra point will have within the 6 senses categorized: 
+        * 1. SEE:  Bring a person to go out and connect with nature; connecting with the land-dirt, sand/sea-water/greens-trees. 
+        * 2. HEAR: Binaural beats at different frequencies that’ll heal specific chakras.
+        * 3. SMELL: Introduce herbs, plants oils / candles / scents bring relief and connecting to chakras. 
+        * 4. TOUCH: Holding/Wearing onto specific crystals, Reiki, or even touching nature.
+        * 5. TASTE: herbs, grains, fruits, veggies of different colors correlate with different chakras. Nutrition truly affects the mind and body. 
+        * 6. SPACE: This is more about movement / yoga / exercise positions that bring relief to your body; opening and strengthening chakras / well-being. Again, bringing balance to one’s body. 
+
+5. Key Metrics: How will we know if our solution is effective?
+
+    * Having a large following, being shared / recommended. Seeing large donations from happy app-users, fans. 
+
+6. Unique Value Proposition: What makes our solution different from other solutions solving the same problem?
+
+    * Most apps are specific to binaural beats or crystals, we’re going to be the whole package. We’re providing for all the 6 senses. 
+
+7. Channels: How will we get our solution into the hands of those that can use it? Will it be downloaded/is it free? Will you need to train people on how to use it? Etc.
+    * It’ll be free: launched in the app store.
+    * There will a help section, visuals on how to use the app.
+    * Maybe a few social media Youtube posts / IG posts / make a blog site to promote app on how it works - motion infographics.
+
+8. Unfair Advantage: Is there a factor that makes your solution more effective than other solutions by the nature of a structural advantage either of the product or of your team (for example, do you have access to data that others don’t)?
+
+    * We’re providing for all the 6 senses Chakra Healing. A wholesome set of options for balance.
+
+9. Cost structure: What is the base cost it takes to create and maintain your solution? What is the cost of serving one person?
+    * Planning, Design, Features, Infrastructure, App administration, Testing, Deployment.
+    * Our time, number of employees. Online says it could range from ~38k - 170k.
+
+10. The 100th person? The 1000th person?
+
+    * That would just be amazing. Just happy to see more peaceful, balanced people from all walks of life. 
+
+11. Revenue Structure: How will your solution make revenue so it is able to fund itself and consistently provide the service?
+    * Donation-based. Get investors? Stocks? 
+
+12. Final Task: Define a community problem you want to solve with technology and the people who it affects that you want to serve.
+
+    * This is probably targeted towards people that have an affinity/interest in chakras, yoga, spirituality. I would hope anyone and everyone that is even slightly interested in chakras to start thinking about this system and how to heal it when feeling pain points. (Naruto introduced me to chakras too!) 
